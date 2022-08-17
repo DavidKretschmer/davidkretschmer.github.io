@@ -19,7 +19,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {file: "Projects.md"}
   - {url: "/vita.pdf", title: "CV"}
-  - {file: "index.html"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
