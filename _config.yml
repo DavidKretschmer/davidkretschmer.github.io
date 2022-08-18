@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "David Kretschmer"
-  avatar : "/assets/images/testpic.jpg"
-  bio    : "PhD Candidate, Sociology, University of Mannheim"
+  avatar : "/assets/images/test-pic.jpg"
+  bio    : "PhD Candidate, Sociology"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,14 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davidkretschmer"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+
 
 defaults:
   # _posts
