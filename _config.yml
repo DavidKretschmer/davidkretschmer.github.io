@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   David Kretschmer | Sociologist 
 twitter_username: da_kretschmer
 github_username: DavidKretschmer
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -64,7 +64,7 @@ author:
       icon: "fas fa-location-dot"
       url: "https://www.sowi.uni-mannheim.de/en/kalter/team/academic-staff-members/kretschmer-david/"
     - label: "E-Mail"
-      icon: "fa-solid fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:david.kretschmer@uni-mannheim.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
