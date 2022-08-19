@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "David Kretschmer"
   avatar : "/assets/images/test-pic.jpg"
-  bio    : "PhD Candidate,\nSociology\nUniversity of Mannnheim"
+  bio    : "PhD Candidate,\nSociology"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "davidkretschmer.github.io"
+    - label: "University of Mannheim"
+      icon: "fa-solid fa-location-dot"
+      url: "https://www.sowi.uni-mannheim.de/en/kalter/team/academic-staff-members/kretschmer-david/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/da_kretschmer"
