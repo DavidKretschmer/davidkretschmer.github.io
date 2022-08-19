@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "David Kretschmer"
   avatar : "/assets/images/test-pic.jpg"
-  bio    : "PhD Candidate, Sociology"
+  bio    : "PhD Candidate,\nSociology\nUniversity of Mannnheim"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
