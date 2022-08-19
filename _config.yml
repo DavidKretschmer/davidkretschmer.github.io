@@ -55,13 +55,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
 author:
   name   : "David Kretschmer"
   avatar : "/assets/images/test-pic.jpg"
   bio    : "PhD Candidate,\nSociology"
   links:
     - label: "University of Mannheim"
-      icon: "fas fa-fw fa-location-dot"
+      icon: "fas fa-fw fa-map-marker"
       url: "https://www.sowi.uni-mannheim.de/en/kalter/team/academic-staff-members/kretschmer-david/"
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope"
