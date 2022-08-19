@@ -62,7 +62,7 @@ author:
   bio    : "PhD Candidate,\nSociology"
   links:
     - label: "University of Mannheim"
-      icon: "fal fa-fw fa-map-marker-alt"
+      icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.sowi.uni-mannheim.de/en/kalter/team/academic-staff-members/kretschmer-david/"
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope"
