@@ -59,17 +59,14 @@ plugins:
 author:
   name   : "David Kretschmer"
   avatar : "/assets/images/test-pic.jpg"
-  bio    : "PhD Candidate,\nSociology"
+  bio    : "PhD Candidate, Sociology"
   links:
-    - label: "University of Mannheim"
+    - label: "University of Mannheim <br> Mannheim, Germany"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.sowi.uni-mannheim.de/en/kalter/team/academic-staff-members/kretschmer-david/"
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:david.kretschmer@uni-mannheim.de"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/davidkretschmer"
 
 
 defaults:
