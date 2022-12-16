@@ -3,6 +3,11 @@ permalink: /
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome! My name is David, and I am a researcher at the University of Mannheim and a PhD student in Sociology with research interests in the fields of intergroup relations, immigrant social and cultural integration, and social network analysis.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My dissertation project investigates the interplay of gender and religion in shaping the friendship networks of Muslim and non-Muslim youth in the European context. It assesses two main questions: 
+
+1. Does the religious friendship segregation of Muslim boys and girls emerge from different mechansims?
+2. Are the friendship networks of Muslim youth more gender segregated than those of non-Muslim boys, and which consequences does this have for societal integration?
+
+My research has been published in _Social Forces_, _European Sociological Research_, _Social Networks_, _Journal of Ethnic and Migration Studies_ and other outlets. You can find more information on my publications [here](davidkretschmer.github.io/publications) and more information about my research interests [here](davidkretschmer.github.io/research). 
