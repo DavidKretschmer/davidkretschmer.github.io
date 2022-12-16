@@ -18,4 +18,4 @@ Kretschmer, David (2018): Explaining Differences in Gender Role Attitudes among 
 
 Kretschmer, David (2018): Labor Market Underrepresentation Results in Minority Discrimination: A Dynamic Hiring Model with Employer Learning. Journal of Mathematical Sociology, 42(2): 83–112.
 
-Kretschmer, David, Leszczensky, Lars, and Pink, Sebastian (2018): Selection and Influence Processes in Academic Achievement – More Pronounced for Girls? So- cial Networks 52(1): 251–260.
+[Kretschmer, David, Leszczensky, Lars, and Pink, Sebastian (2018): Selection and Influence Processes in Academic Achievement – More Pronounced for Girls? So- cial Networks 52(1): 251–260.](https://www.sciencedirect.com/science/article/abs/pii/S0378873316304890)
