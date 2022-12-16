@@ -5,32 +5,32 @@ title: "Publications"
 
 ## 2022
 
-Kretschmer, David, and Leszczensky, Lars (2022): In-Group Bias or Out-Group Re- luctance? The Interplay of Gender and Religion in Creating Religious Friendship Segregation among Muslim Youth. Social Forces, 100(3): 1307-1332.
+Kretschmer, David, and Leszczensky, Lars (2022): [In-Group Bias or Out-Group Re- luctance? The Interplay of Gender and Religion in Creating Religious Friendship Segregation among Muslim Youth.](https://academic.oup.com/sf/article/100/3/1307/6225741){:target="_blank"} Social Forces, 100(3): 1307-1332.
 
-Leszczensky, Lars, Pink, Sebastian, Kretschmer, David, and Kalter, Frank (2022): Data Brief: Studying Youth’ Group Identities, Intergroup Relations, and Friendship Networks: The Friendship and Identity in School Data. European Sociological Review. 38(3): 493-506.
+Leszczensky, Lars, Pink, Sebastian, Kretschmer, David, and Kalter, Frank (2022): [Data Brief: Studying Youth’ Group Identities, Intergroup Relations, and Friendship Networks: The Friendship and Identity in School Data.](https://academic.oup.com/esr/article/38/3/493/6406434){:target="_blank"} European Sociological Review. 38(3): 493-506.
 
-Leszczensky, Lars, and Kretschmer, David (2022): Religious Friendship Preferences of Muslim and Non-Muslim Students in German Schools: Bright Boundaries Everywhere or Contingent on the Proportion of Muslim Classmates? Social Networks, 68: 60-69.
+Leszczensky, Lars, and Kretschmer, David (2022): [Religious Friendship Preferences of Muslim and Non-Muslim Students in German Schools: Bright Boundaries Everywhere or Contingent on the Proportion of Muslim Classmates?](https://www.sciencedirect.com/science/article/abs/pii/S0378873321000319){:target="_blank"} Social Networks, 68: 60-69.
 
 ## 2021
 
-Kaiser, Anna, Kretschmer, David, and Leszczensky, Lars (2021): Social NetworkBased Cohorting to Reduce the Spread of SARS-CoV-2 in Secondary Schools: A Simulation Study in Classrooms of Four European Countries. The Lancet Regional Health – Europe 8.
+Kaiser, Anna, Kretschmer, David, and Leszczensky, Lars (2021): [Social Network-Based Cohorting to Reduce the Spread of SARS-CoV-2 in Secondary Schools: A Simulation Study in Classrooms of Four European Countries.](https://www.sciencedirect.com/science/article/pii/S2666776221001435){:target="_blank"} The Lancet Regional Health – Europe 8.
 
-Kretschmer, David, and Roth, Tobias (2021): Why Do Friends Have Similar Educational Expectations? Separating Influence and Selection Effects. European Sociological Review, 37(2): 201-217
+Kretschmer, David, and Roth, Tobias (2021): [Why Do Friends Have Similar Educational Expectations? Separating Influence and Selection Effects.](https://academic.oup.com/esr/article-abstract/37/2/201/6000730){:target="_blank"} European Sociological Review, 37(2): 201-217
 
 ## 2020
 
-Kretschmer, David, and Kruse, Hanno (2020): Neighbourhood Effects on Acculturation Attitudes among Minority and Majority Adolescents in Germany. Urban Studies, 57(16): 3363-3380.
+Kretschmer, David, and Kruse, Hanno (2020): [Neighbourhood Effects on Acculturation Attitudes among Minority and Majority Adolescents in Germany.](https://journals.sagepub.com/doi/full/10.1177/0042098019897890){:target="_blank"} Urban Studies, 57(16): 3363-3380.
 
-Pink, Sebastian, Kretschmer, David, and Lars Leszczesky (2020): Choice Modelling in Social Networks Using Stochastic Actor-Oriented Models. Journal of Choice Modelling. 100202.
+Pink, Sebastian, Kretschmer, David, and Lars Leszczesky (2020): [Choice Modelling in Social Networks Using Stochastic Actor-Oriented Models.](https://www.sciencedirect.com/science/article/abs/pii/S1755534520300014){:target="_blank"} Journal of Choice Modelling. 100202.
 
 ## 2019
 
-[Kretschmer, David (2019): Explaining Native-Migrant Differences in Parental Knowledge about the German Educational System. International Migration, 57(1): 281– 297.}(https://onlinelibrary.wiley.com/doi/full/10.1111/imig.12535){:target="_blank"}
+*Kretschmer, David* (2019): [Explaining Native-Migrant Differences in Parental Knowledge about the German Educational System.](https://onlinelibrary.wiley.com/doi/full/10.1111/imig.12535){:target="_blank"} International Migration, 57(1): 281– 297.
 
 ## 2018
 
-[Kretschmer, David (2018): Explaining Differences in Gender Role Attitudes among Migrant and Native Adolescents in Germany: Intergenerational Transmission, Religiosity, and Integration. Journal of Ethnic and Migration Studies, 44(13): 2197-2218.](https://www.tandfonline.com/doi/full/10.1080/1369183X.2017.1388159){:target="_blank"}
+Kretschmer, David (2018): [Explaining Differences in Gender Role Attitudes among Migrant and Native Adolescents in Germany: Intergenerational Transmission, Religiosity, and Integration.](https://www.tandfonline.com/doi/full/10.1080/1369183X.2017.1388159){:target="_blank"} Journal of Ethnic and Migration Studies, 44(13): 2197-2218.
 
-[Kretschmer, David (2018): Labor Market Underrepresentation Results in Minority Discrimination: A Dynamic Hiring Model with Employer Learning. Journal of Mathematical Sociology, 42(2): 83–112.](https://www.tandfonline.com/doi/full/10.1080/0022250X.2018.1425299){:target="_blank"}
+Kretschmer, David (2018): [Labor Market Underrepresentation Results in Minority Discrimination: A Dynamic Hiring Model with Employer Learning.](https://www.tandfonline.com/doi/full/10.1080/0022250X.2018.1425299){:target="_blank"} Journal of Mathematical Sociology, 42(2): 83–112.
 
-[Kretschmer, David, Leszczensky, Lars, and Pink, Sebastian (2018): Selection and Influence Processes in Academic Achievement – More Pronounced for Girls? Social Networks 52(1): 251–260.](https://www.sciencedirect.com/science/article/abs/pii/S0378873316304890){:target="_blank"}
+Kretschmer, David, Leszczensky, Lars, and Pink, Sebastian (2018): [Selection and Influence Processes in Academic Achievement – More Pronounced for Girls?](https://www.sciencedirect.com/science/article/abs/pii/S0378873316304890){:target="_blank"} Social Networks 52(1): 251–260.
