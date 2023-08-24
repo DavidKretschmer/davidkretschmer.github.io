@@ -3,9 +3,5 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Research"
-    url: /research/
-  - title: "Code"
-    url: /code/
   - title: "CV"
     url: /assets/vita.pdf
