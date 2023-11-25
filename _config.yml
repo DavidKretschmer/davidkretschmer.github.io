@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "David Kretschmer's Webpage"
 title_separator          : "-"
 name                     : &name "David Kretschmer"
 description              : &description "personal description"
