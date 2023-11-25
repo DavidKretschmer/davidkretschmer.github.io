@@ -1,0 +1,1617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"include_",
+				"include_ergm"
+			],
+			[
+				"Cha",
+				"Characteristic"
+			],
+			[
+				"ego_alter_incl",
+				"ego_alter_include_isolate"
+			],
+			[
+				"NA",
+				"NA_character_"
+			],
+			[
+				"Na_",
+				"NA_character_"
+			],
+			[
+				"share",
+				"share_subclinical"
+			],
+			[
+				"infect",
+				"infectiousness_asymptomatic"
+			],
+			[
+				"infectiousness_",
+				"infectiousness_symptomatic"
+			],
+			[
+				"share_sub",
+				"share_subclinical"
+			],
+			[
+				"inf_asy",
+				"inf_asymptomatic"
+			],
+			[
+				"inf_sub",
+				"inf_subclinical"
+			],
+			[
+				"share_s",
+				"share_subclinical"
+			],
+			[
+				"suscep",
+				"susceptibility_num"
+			],
+			[
+				"classroom_c",
+				"classroom_cohorting_ties_repeat"
+			],
+			[
+				"pr_out",
+				"pr_out_of_school"
+			],
+			[
+				"pr_ou",
+				"pr_out_of_school"
+			],
+			[
+				"all_min",
+				"all_minimal_formatted\t  [workspace]"
+			],
+			[
+				"n_cross_gro",
+				"n_cross_group_min"
+			],
+			[
+				"share_",
+				"share_inf"
+			],
+			[
+				"groups",
+				"groups_affected"
+			],
+			[
+				"postion",
+				"position_dodge\t  {ggplot2}"
+			],
+			[
+				"exposure_",
+				"exposure_out_all\t  [scope]"
+			],
+			[
+				"simulation",
+				"simulation_epidemic_classroom"
+			],
+			[
+				"main_data_gr",
+				"main_data_group_gender"
+			],
+			[
+				"main_data_g",
+				"main_data_group_random"
+			],
+			[
+				"get_",
+				"get_groups_and_nets\t  [workspace]"
+			],
+			[
+				"pr_",
+				"pr_out_of_school\t  [scope]"
+			],
+			[
+				"simul",
+				"simulate_classroom_epidemic\t  [workspace]"
+			],
+			[
+				"quaran",
+				"quarantined_group_new"
+			],
+			[
+				"ids_",
+				"ids_class_pull\t  [scope]"
+			],
+			[
+				"scen",
+				"scenario_clean"
+			],
+			[
+				"fct_rel",
+				"fct_relevel\t  {forcats}"
+			],
+			[
+				"relation",
+				"relation_clean"
+			],
+			[
+				"conte",
+				"context_all\t  [workspace]"
+			],
+			[
+				"wave_se",
+				"wave_select_all\t  [workspace]"
+			],
+			[
+				"wave",
+				"wave_select"
+			],
+			[
+				"ego_at",
+				"ego_alter_cov\t  [scope]"
+			],
+			[
+				"colnames",
+				"colnames_sociometric_data\t  [scope]"
+			],
+			[
+				"cils_religi",
+				"cils_religion_classroom\t  [workspace]"
+			],
+			[
+				"cils_reli",
+				"cils_religion_short\t  [workspace]"
+			],
+			[
+				"homophily_data",
+				"homophily_data_all\t  [workspace]"
+			],
+			[
+				"homoph",
+				"homophily_value"
+			],
+			[
+				"homop",
+				"homophily_data_cutoff3\t  [workspace]"
+			],
+			[
+				"homophi",
+				"homophily_data_cutoff2\t  [workspace]"
+			],
+			[
+				"homp",
+				"homophily_data_cutoff10"
+			],
+			[
+				"homophily_dta",
+				"homophily_data_cutoff"
+			],
+			[
+				"homo",
+				"homophily_data_cutoff"
+			],
+			[
+				"geom",
+				"geom_smooth"
+			],
+			[
+				"same_eth",
+				"same_eth_mig"
+			],
+			[
+				"same_et",
+				"same_eth_mig_mean"
+			],
+			[
+				"var_edgecov",
+				"var_edgecov.eth_match_mig"
+			],
+			[
+				"same_eth_nat",
+				"same_eth_nat_mean"
+			],
+			[
+				"meta_m2",
+				"meta_m2_weak_nat\t  [workspace]"
+			],
+			[
+				"ergm_result",
+				"ergm_results_nat\t  [workspace]"
+			],
+			[
+				"classroom_data_",
+				"classroom_data_weak\t  [scope]"
+			],
+			[
+				"metareg_m1",
+				"metareg_m1_linear_weak\t  [workspace]"
+			],
+			[
+				"edgecov",
+				"coef_edgecov.eth_match_nat"
+			],
+			[
+				"multivari",
+				"multivariate_meta\t  [workspace]"
+			],
+			[
+				"ergm_re",
+				"ergm_results"
+			],
+			[
+				"ergm_res",
+				"ergm_results2\t  [workspace]"
+			],
+			[
+				"ergm_results",
+				"ergm_results_obs\t  [workspace]"
+			],
+			[
+				"ergm_",
+				"ergm_meta_prep"
+			],
+			[
+				"model1_list",
+				"model1_list_code\t  [workspace]"
+			],
+			[
+				"ame_output",
+				"ame_output2503.RData"
+			],
+			[
+				"smoking_iv_",
+				"smoking_iv_ex_2"
+			],
+			[
+				"beta_err",
+				"beta_error_2\t  parameter"
+			],
+			[
+				"geom_error",
+				"geom_errorbarh\t  {ggplot2}"
+			],
+			[
+				"Seleci",
+				"Selection-only"
+			],
+			[
+				"smoking_child",
+				"smoking_child_1"
+			],
+			[
+				"first_st",
+				"first_stage_fitted\t  [workspace]"
+			],
+			[
+				"fr_smok",
+				"fr_smoking_child_1"
+			],
+			[
+				"beta_aut",
+				"beta_auto_father"
+			],
+			[
+				"smoking_delta",
+				"smoking_delta"
+			],
+			[
+				"smo",
+				"smoking_parameters"
+			],
+			[
+				"smoking",
+				"smoking_error_1"
+			],
+			[
+				"beta",
+				"beta_error_1"
+			],
+			[
+				"smok",
+				"smoking_parameters\t  [workspace]"
+			],
+			[
+				"blau",
+				"blauMacrosociologicalTheorySocial1977a"
+			],
+			[
+				"feld",
+				"feldSocialStructuralDeterminants1982"
+			],
+			[
+				"leszcze",
+				"leszczenskyUnderstandingCausesConsequences2019"
+			],
+			[
+				"kalmi",
+				"kalmijnIntermarriageHomogamyCauses1998"
+			],
+			[
+				"s",
+				"sou\tSource"
+			],
+			[
+				"mcmc",
+				"mcmc_inclusion\tabc"
+			],
+			[
+				"desc",
+				"descriptive_characteristics\tabc"
+			],
+			[
+				"section",
+				"section\tsection"
+			],
+			[
+				"item",
+				"item\tItemize"
+			],
+			[
+				"end",
+				"end{verbatim}\tAssignment_07.tex"
+			],
+			[
+				"align",
+				"align\tNew align"
+			],
+			[
+				"enum",
+				"enum\tEnumerate"
+			],
+			[
+				"se",
+				"baselinestretch\tDiskriminierung2812.tex"
+			],
+			[
+				"formation",
+				"formation"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"logi",
+				"logit_hit1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"cancel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"close pro",
+				"Project: Close"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"blck",
+				"Toggle Block Comment"
+			],
+			[
+				"cance",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"filediff",
+				"FileDiffs: Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"sendc",
+				"SendCode: Choose Program"
+			],
+			[
+				"packge is",
+				"Package Control: Install Package"
+			],
+			[
+				"R-",
+				"Preferences: R-Box Key Bindings"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"cancel up",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"blok",
+				"Toggle Block Comment"
+			],
+			[
+				"uplod",
+				"SFTP: Upload File"
+			],
+			[
+				"close po",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"close p",
+				"Project: Close"
+			],
+			[
+				"uplad",
+				"SFTP: Upload File"
+			],
+			[
+				"ca",
+				"Tasks: Cancel"
+			],
+			[
+				"togll",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"terinus",
+				"Terminus: Close"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"terminal",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"temrinus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"lbock",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"terminsu",
+				"Terminus: Close"
+			],
+			[
+				"close proclose pro",
+				"Project: Close"
+			],
+			[
+				"Upload file",
+				"SFTP: Upload File"
+			],
+			[
+				"",
+				"ANF: Delete File"
+			],
+			[
+				"whitespace",
+				"Trim Trailing White Space"
+			],
+			[
+				"uplosf",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"close por",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"uplaod",
+				"SFTP: Upload File"
+			],
+			[
+				"u",
+				"SFTP: Upload File"
+			],
+			[
+				"upoa",
+				"SFTP: Upload File"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"cose pro",
+				"Project: Close"
+			],
+			[
+				"cancel u",
+				"Build: Cancel"
+			],
+			[
+				"block co",
+				"Toggle Block Comment"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"uload",
+				"SFTP: Upload File"
+			],
+			[
+				"cancel ",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"clos pro",
+				"Project: Close"
+			],
+			[
+				"CLOSE PRO",
+				"Project: Close"
+			],
+			[
+				"open pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"uploaf",
+				"SFTP: Upload File"
+			],
+			[
+				"OWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"uploaad",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"clsoe pro",
+				"Project: Close"
+			],
+			[
+				"Upl",
+				"SFTP: Upload File"
+			],
+			[
+				"upo",
+				"SFTP: Upload File"
+			],
+			[
+				"Upload",
+				"SFTP: Upload File"
+			],
+			[
+				"ipload",
+				"Snippet: Load Dataset"
+			],
+			[
+				"canc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"filedi",
+				"FileDiffs: Menu"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"stfp",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"termus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"upoad",
+				"SFTP: Upload File"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"file diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"f",
+				"FileDiffs: Menu"
+			],
+			[
+				"file ",
+				"FileDiffs: Menu"
+			],
+			[
+				"bllock",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"b lock",
+				"Toggle Block Comment"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close pr",
+				"Project: Close"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"CLOSE PO",
+				"Project: Close"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"copy nam",
+				"File: Copy Name"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"project clo",
+				"Project: Close"
+			],
+			[
+				"close proj",
+				"Project: Close"
+			],
+			[
+				"commen",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"close roj",
+				"Project: Close"
+			],
+			[
+				"cac",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"commit",
+				"git: commit including unstaged files"
+			],
+			[
+				"add push",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"project close",
+				"Project: Close"
+			],
+			[
+				"upload file",
+				"SFTP: Upload File"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"toggle co",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"close proje",
+				"Project: Close"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"project man",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Append Project"
+			],
+			[
+				"new fold",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"downloa",
+				"SFTP: Download Folder"
+			],
+			[
+				"stage",
+				"git: quick stage current file and commit"
+			],
+			[
+				"filediffs",
+				"FileDiffs: Menu"
+			],
+			[
+				"cacnel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"project open",
+				"Project Manager: Open Project"
+			],
+			[
+				"sftp:",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp downlo",
+				"SFTP: Download File"
+			],
+			[
+				"sftp cancel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"copy name",
+				"File: Copy Name"
+			],
+			[
+				"sftp brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packages brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sftp sycn",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sync sftp",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"termius view",
+				"Terminus: Open Default Shell in Tab (View)"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io"
+	],
+	"file_history":
+	[
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_01_re_estimation.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_00_master_reestimation.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/job_reestimation.sh",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/02_01_estimate_rel2.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/02_00_master_estimation.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/job_estimation.sh",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/02_00_master_estimation_1.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/02_01_estimation_rel.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/01_00_master_preparation.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/sftp-config.json",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/01_01_preparation_class_rel_descriptive.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/01_00_preparation_class_functions.R",
+		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/01_01_preparation_class_rel.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/aggregate_ergms_robust_3_ames.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/aggregate_ergms_main_ame.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_postestimation4_cils_ame.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames_3.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_estimate_sum.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_estimate_sum_local.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_estimate_master.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_3_ames.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames_comb_sum.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_postestimation4_fis_ame.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames_comb.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames_local.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_estimate_school_local.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/israel/israel_ergm_postestimate_ames.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_ames_sum.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/israel/israel_ergm_estimate_master.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/israel/israel_ergm_estimate_6_local.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_ames_sum_local.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/israel/israel_ergm_estimate_6.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_postestimation4_fis_ame_comb.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_ames_comb.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_estimate_sum_comb.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_comb_sum.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_estimation4_fis.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/fis/fis_ergm_postestimate_ames.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_postestimation4_israel_ame.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_estimation4_cils.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_estimate_master.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/job_postestimation4_cils.sh",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/test_ame_comp.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_estimate_school_comb_sum_v3.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames_sum.R",
+		"/Users/davidkretschmer/Projects/Relationship Strength/relationship-strength/R/cils/cils_ergm_estimate_school.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_postestimation4_cils_ame.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_ames.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_get_ames.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_master.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_ame.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_ame.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/test.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_estimation4_cils.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_estimation4_israel.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_postestimation4_israel.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_robust_3_comb.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_postestimation4_fis.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_postestimation4_cils.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate_master.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/job_estimation4_fis.sh",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate_comb_v3_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_comb_v3_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_prepare_3_comb.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_prepare_3_comb.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_estimate_master.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_estimate.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_prepare_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_prepare_3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/fisher.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_dist.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_fisher.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_testsim.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/data/cils/2022-08-25___10-13-38_v3/descriptive_israel.RData",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/binom.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_main.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/archive/fis_ergm_estimate.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_mcmc.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_vif.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_robust_exc_vif.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_descriptives.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_descriptive.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_prepare.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_prepare.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_prepare.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/archive/cils_ergm_prepare.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_exclude_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_exclude_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_exclude_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_estimate_4_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_mcmc.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_ergms_robust.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_descriptives_4groups.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_exclude_mcmc_strict_single_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_mcmc_single_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_postestimate_exclude_mcmc_strict_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_estimate_school_comb_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_descriptive_4groups_exakt_v4.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_estimate_comb_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_estimate_comb_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_mcmc_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/israel/israel_ergm_estimate_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_descriptive_v4.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_descriptive_v4.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_descriptive.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_exclude_mcmc_strictv3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_results_israel_2_4_6.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_results_4groups_v3_comp.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_exclude_mcmc_strict_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_results_4groups_v3.R",
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_postestimate_v3_c.R"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 124.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 625.0
+	},
+	"output.SFTP":
+	{
+		"height": 116.0
+	},
+	"output.Terminus":
+	{
+		"height": 193.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 150.0
+	},
+	"output.diagnostics":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 84.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 255.0
+	},
+	"pinned_build_system": "Packages/R/R.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"poste_ame",
+				"R/cils/cils_ergm_postestimate_ames.R"
+			],
+			[
+				"cls_postestimate_ame",
+				"R/cils/cils_ergm_postestimate_ames.R"
+			],
+			[
+				"postesti",
+				"R/fis/fis_ergm_postestimate.R"
+			],
+			[
+				"fisher",
+				"R/cils/fisher.R"
+			],
+			[
+				"fis_es",
+				"R/fis/fis_ergm_estimate.R"
+			],
+			[
+				"aggre",
+				"R/aggregate_ergms_main.R"
+			],
+			[
+				"main",
+				"R/aggregate_ergms_main.R"
+			],
+			[
+				"",
+				"job_estimation4_cils.sh"
+			],
+			[
+				"israel_ergm",
+				"R/israel/israel_ergm_estimate.R"
+			],
+			[
+				"cils_est",
+				"R/cils/cils_ergm_estimate_school.R"
+			],
+			[
+				"estimate",
+				"R/cils/cils_ergm_estimate.R"
+			],
+			[
+				"master",
+				"R/cils/cils_ergm_estimate_master.R"
+			],
+			[
+				"fis_ergm_pre",
+				"R/fis/fis_ergm_prepare_missisei.R"
+			],
+			[
+				"cils_ergm_pre",
+				"R/cils/cils_ergm_prepare_later_waves_tos.R"
+			],
+			[
+				"cls",
+				"R/cils/cils_ergm_estimate.R"
+			],
+			[
+				"optimi",
+				"cils-covid-schools/job_optimize.sh"
+			],
+			[
+				"readm",
+				"~/Downloads/Cluster Parallel/README.txt"
+			],
+			[
+				"read",
+				"~/Downloads/Cluster Parallel/README.txt"
+			],
+			[
+				"unt",
+				"untitled"
+			],
+			[
+				"concl",
+				"sections/conclusion.tex"
+			],
+			[
+				"long",
+				"sections/long_run.tex"
+			],
+			[
+				"xte",
+				"sections/extended_model.tex"
+			],
+			[
+				"basic",
+				"sections/basic_model_result.tex"
+			],
+			[
+				"intro",
+				"sections/introduction.tex"
+			],
+			[
+				"lon",
+				"sections/long_run.tex"
+			],
+			[
+				"pro",
+				"sections/proofs.tex"
+			],
+			[
+				"extend",
+				"sections/extended_model.tex"
+			],
+			[
+				"results",
+				"sections/Output/basic_model_result.fls"
+			],
+			[
+				"proof",
+				"sections/proofs.tex"
+			],
+			[
+				"app",
+				"sections/appendix_proofs.tex"
+			],
+			[
+				"disp",
+				"sections/dispers.tex"
+			],
+			[
+				"p",
+				"sections/proofs.tex"
+			],
+			[
+				"dis",
+				"sections/dispers.tex"
+			],
+			[
+				"ext",
+				"sections/extended_model.tex"
+			],
+			[
+				"exten",
+				"sections/extended_model.tex"
+			],
+			[
+				"time",
+				"graphs/Timegraph_Concave_sub.tex"
+			],
+			[
+				"sim",
+				"sections/basic_model_sim.tex"
+			],
+			[
+				"expec",
+				"sections/basic_model_expect.tex"
+			],
+			[
+				"in",
+				"sections/introduction.tex"
+			],
+			[
+				"model",
+				"sections/basic_model.tex"
+			],
+			[
+				"heat",
+				"graphs/Heatmaps_CNB.tex"
+			],
+			[
+				"condpro",
+				"graphs/Condprob_Linear.tex"
+			],
+			[
+				"conc",
+				"sections/conclusion.tex"
+			],
+			[
+				"res",
+				"sections/basic_model_result.tex"
+			],
+			[
+				"intr",
+				"sections/introduction.tex"
+			],
+			[
+				"ex",
+				"sections/extended_model.tex"
+			],
+			[
+				"mode",
+				"sections/model.tex"
+			],
+			[
+				"dyna",
+				"Sections/dynamic_model.tex"
+			],
+			[
+				"dya",
+				"Sections/Output/dynamic_model.aux"
+			],
+			[
+				"appe",
+				"Sections/appendix_a_proofs.tex"
+			],
+			[
+				"dy",
+				"Sections/dynamic_model.tex"
+			],
+			[
+				"stat",
+				"Sections/static_model.tex"
+			],
+			[
+				"liter",
+				"Sections/literature.tex"
+			],
+			[
+				"stati",
+				"Sections/static_model.tex"
+			],
+			[
+				"dyn",
+				"Sections/dynamic_model.tex"
+			],
+			[
+				"literatu",
+				"Sections/literature.tex"
+			],
+			[
+				"thesi",
+				"~/Uni/Projects/Thesis VWL/Thesis.tex"
+			],
+			[
+				"stabi",
+				"graphs/stability.tex"
+			],
+			[
+				"introdu",
+				"Sections/introduction.tex"
+			],
+			[
+				"static",
+				"Sections/static_model_alt.tex"
+			],
+			[
+				"lit",
+				"Sections/literature.tex"
+			],
+			[
+				"literu",
+				"Sections/literature.tex"
+			],
+			[
+				"append",
+				"Sections/appendix_a_proofs.tex"
+			],
+			[
+				"appendb",
+				"Sections/appendix_b_simulation.tex"
+			],
+			[
+				"dynam",
+				"Sections/dynamic_model.tex"
+			],
+			[
+				"matc",
+				"graphs/matching_perfect.tex"
+			],
+			[
+				"concav",
+				"graphs/concavity.tex"
+			],
+			[
+				"appen",
+				"Sections/appendix_a_proofs.tex"
+			],
+			[
+				"write",
+				"Sections/normalpriors_writeup.tex"
+			],
+			[
+				"writ",
+				"Sections/normalpriors_writeup.tex"
+			],
+			[
+				"lite",
+				"Sections/literature.tex"
+			],
+			[
+				"match",
+				"graphs/matching_perfect.tex"
+			],
+			[
+				"sttic",
+				"Sections/static_model_alt.tex"
+			],
+			[
+				"stt",
+				"Sections/static_model.tex"
+			],
+			[
+				"ster",
+				"steuer.tex"
+			],
+			[
+				"treee",
+				"tree_rewarder_small.tex"
+			],
+			[
+				"tree_pu",
+				"tree_punisher_small.tex"
+			],
+			[
+				"tree",
+				"tree_rewarder_small.tex"
+			],
+			[
+				"dynamic",
+				"graphs/dynamic_rew.tex"
+			],
+			[
+				"present",
+				"Presentation_Carrot_or_Stick.tex"
+			],
+			[
+				"binom",
+				"graphs/binom_pun.tex"
+			],
+			[
+				"dynami",
+				"graphs/dynamic_pun.tex"
+			],
+			[
+				"binom_rwe",
+				"graphs/binom_rew.tex"
+			],
+			[
+				"tree_se",
+				"graphs/tree_settings.tex"
+			],
+			[
+				"tree_full",
+				"graphs/tree_full.tex"
+			],
+			[
+				"tree_rewarder_sm",
+				"graphs/tree_rewarder_small.tex"
+			],
+			[
+				"op",
+				"optimal.tex"
+			],
+			[
+				"id",
+				"Summaries/Summary_Id.tex"
+			],
+			[
+				"iv",
+				"Summary_IV.tex"
+			],
+			[
+				"summary.tex",
+				"Summary.tex"
+			],
+			[
+				"summary_i",
+				"Summary_IV.tex"
+			],
+			[
+				"sum",
+				"Summary.tex"
+			],
+			[
+				"b",
+				"Grafiken/budget.tex"
+			],
+			[
+				"disk",
+				"Diskriminierung1411.tex"
+			],
+			[
+				"k",
+				"Kommentare_Hauptdok"
+			],
+			[
+				"bp1",
+				"bp3_1.tex"
+			],
+			[
+				"test",
+				"Test1.tex"
+			],
+			[
+				"/users/da_kresch/",
+				"/Users/da_kresch/Uni/BA-Arbeit/Diskriminierung.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 542.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
