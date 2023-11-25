@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! My Name is David, and I am a Postdoctoral Prize Research Fellow at Nuffield College, University of Oxford.
 
-My research interests are in the fields of intergroup relations, immigrant social and cultural integration, and social network analysis. On this webpage, you find an overview of my [research](https://davidkretschmer.github.io/research/), my [publications](https://davidkretschmer.github.io/publications/, and my [CV](https://davidkretschmer.github.io/cv/).
+My research interests are in the fields of intergroup relations, immigrant social and cultural integration, and social network analysis. On this webpage, you find an overview of my [research](https://davidkretschmer.github.io/research/), my [publications](https://davidkretschmer.github.io/publications/), and my [CV](https://davidkretschmer.github.io/cv/).
 
 News
 ======
