@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "David Kretschmer"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "David Kretschmer"
   avatar           : "test-pic.jpg"
   bio              : "Postdoctoral Prize Research Fellow, Nuffield College, University of Oxford"
-  location         : "Oxford"
+  location         : "Oxford, United Kingdom"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.de/citations?user=K9gx1DUAAAAJ&hl=de"
+  email            : "david.kretschmer@nuffield.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/DavidKretschmer"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@da_kretschmer"
   vine             :
   weibo            :
   xing             :
