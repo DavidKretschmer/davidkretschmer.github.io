@@ -1,4 +1,0 @@
----
-permalink: /code/
-title: "Code"
----
