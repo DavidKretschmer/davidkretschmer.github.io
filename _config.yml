@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Kretschmer<br>Webpage"
+title                    : "David Kretschmer's &nbsp &nbsp<br>Webpage"
 title_separator          : "-"
 name                     : &name "David Kretschmer"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Kretschmer"
-  avatar           : "pic_web.png"
+  avatar           : "test-pic.jpg"
   bio              : "Postdoctoral Prize<br> 
                       Research Fellow,<br>
                       Nuffield College,<br> 
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/DavidKretschmer"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@da_kretschmer"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
