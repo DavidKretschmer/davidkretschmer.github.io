@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "          David Kretschmer          "
+title                    : "&emsp David Kretschmer &emsp"
 title_separator          : "-"
 name                     : &name "David Kretschmer"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   name             : "David Kretschmer"
   avatar           : "pic_web.png"
   bio              : "Postdoctoral Prize<br> 
-                      Research Fellow, 
-                      Nuffield College, 
+                      Research Fellow<br>, 
+                      Nuffield College,<br> 
                       University of Oxford"
   location         : "Oxford, United Kingdom"
   employer         :
