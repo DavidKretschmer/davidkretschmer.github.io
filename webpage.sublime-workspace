@@ -392,6 +392,10 @@
 		"selected_items":
 		[
 			[
+				"close pro",
+				"Project: Close"
+			],
+			[
 				"upload",
 				"SFTP: Upload File"
 			],
@@ -402,10 +406,6 @@
 			[
 				"cancel",
 				"SFTP: Cancel Upload"
-			],
-			[
-				"close pro",
-				"Project: Close"
 			],
 			[
 				"block",
@@ -928,14 +928,16 @@
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_data",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages",
-		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/assets"
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/assets",
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/images"
 	],
 	"file_history":
 	[
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_config.yml",
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_sass/_sidebar.scss",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages/publications.md",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_data/navigation.yml",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages/about.md",
-		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_config.yml",
 		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_01_re_estimation.R",
 		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_00_master_reestimation.R",
 		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/job_reestimation.sh",
@@ -1058,8 +1060,7 @@
 		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_descriptive_v4.R",
 		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_descriptive_v4.R",
 		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/fis/fis_ergm_descriptive.R",
-		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_exclude_mcmc_strictv3.R",
-		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/aggregate_results_israel_2_4_6.R"
+		"/Users/da_kresch/Projects/Religion Freundschaft Identität/Relationships Different Strength/relationship-strength/R/cils/cils_ergm_postestimate_exclude_mcmc_strictv3.R"
 	],
 	"find":
 	{
@@ -1077,6 +1078,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"breakpoint",
+			"title",
+			"author__av",
+			"&emsp",
 			"- ",
 			"pic",
 			"test",
@@ -1198,6 +1203,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sideb",
+				"_sass/_sidebar.scss"
+			],
+			[
+				"sidebar",
+				"_sass/_sidebar.scss"
+			],
 			[
 				"poste_ame",
 				"R/cils/cils_ergm_postestimate_ames.R"
