@@ -379,6 +379,140 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 8233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AgAAADoNAAAAAAAAQg0AAAAAAAAAAAAAQg0AAAAAAABCDQAAAAAAAAgAAAB0ZXN0LXBpYw",
+					"AQAAAAAAAAABAAAAOg0AAAAAAABCDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "_2"
+					},
+					"AgAAAEINAAAAAAAAQw0AAAAAAAAAAAAAQw0AAAAAAABEDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQg0AAAAAAABCDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4BAAAAAAAAngEAAAAAAAAzAAAAIkRhdmlkIEtyZXRzY2htZXIncyAgICAgICAgICAgICAgICAgICAgPGJyPldlYnBhZ2Ui",
+					"AQAAAAAAAAABAAAAngEAAAAAAADRAQAAAAAAAP///////+9/"
+				],
+				[
+					19,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJ4BAAAAAAAAoAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 4777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n\nP"
+					},
+					"AwAAALsEAAAAAAAAvAQAAAAAAAAAAAAAvAQAAAAAAAC9BAAAAAAAAAAAAAC9BAAAAAAAAL4EAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwQAAAAAAAC7BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL0EAAAAAAAAvQQAAAAAAAABAAAAUA",
+					"AQAAAAAAAAABAAAAvgQAAAAAAAC+BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAL0EAAAAAAAAvgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQQAAAAAAAC9BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAL4EAAAAAAAABRMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgQAAAAAAAC+BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALwEAAAAAAAAvQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAQAAAAAAAC8BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AQAAAL0EAAAAAAAAyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQQAAAAAAAC9BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "Publications"
+					},
+					"DQAAAL0EAAAAAAAAvgQAAAAAAAAAAAAAvgQAAAAAAAC+BAAAAAAAAAQAAABOZXdzvgQAAAAAAAC/BAAAAAAAAAAAAAC/BAAAAAAAAMAEAAAAAAAAAAAAAMAEAAAAAAAAwQQAAAAAAAAAAAAAwQQAAAAAAADCBAAAAAAAAAAAAADCBAAAAAAAAMMEAAAAAAAAAAAAAMMEAAAAAAAAxAQAAAAAAAAAAAAAxAQAAAAAAADFBAAAAAAAAAAAAADFBAAAAAAAAMYEAAAAAAAAAAAAAMYEAAAAAAAAxwQAAAAAAAAAAAAAxwQAAAAAAADIBAAAAAAAAAAAAADIBAAAAAAAAMkEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQQAAAAAAAC9BAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "publications"
+					},
+					"DQAAAKcBAAAAAAAAqAEAAAAAAAAAAAAAqAEAAAAAAACoAQAAAAAAAHwAAABbcmVzZWFyY2hdKGh0dHBzOi8vZGF2aWRrcmV0c2NobWVyLmdpdGh1Yi5pby9yZXNlYXJjaC8pLCBteSBbcHVibGljYXRpb25zXShodHRwczovL2Rhdmlka3JldHNjaG1lci5naXRodWIuaW8vcHVibGljYXRpb25zLyksqAEAAAAAAACpAQAAAAAAAAAAAACpAQAAAAAAAKoBAAAAAAAAAAAAAKoBAAAAAAAAqwEAAAAAAAAAAAAAqwEAAAAAAACsAQAAAAAAAAAAAACsAQAAAAAAAK0BAAAAAAAAAAAAAK0BAAAAAAAArgEAAAAAAAAAAAAArgEAAAAAAACvAQAAAAAAAAAAAACvAQAAAAAAALABAAAAAAAAAAAAALABAAAAAAAAsQEAAAAAAAAAAAAAsQEAAAAAAACyAQAAAAAAAAAAAACyAQAAAAAAALMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwEAAAAAAAAjAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -933,10 +1067,10 @@
 	],
 	"file_history":
 	[
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_data/navigation.yml",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_config.yml",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_sass/_sidebar.scss",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages/publications.md",
-		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_data/navigation.yml",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages/about.md",
 		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_01_re_estimation.R",
 		"/Users/davidkretschmer/Projects/Religiosity CILS/religiosity-cils/R/03_00_master_reestimation.R",
@@ -1078,6 +1212,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"test-",
+			"pho",
 			"breakpoint",
 			"title",
 			"author__av",
@@ -1116,6 +1252,75 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
