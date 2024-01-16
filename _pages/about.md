@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a sociologist and Postdoctoral Prize Research Fellow at Nuffield College, University of Oxford.
 
-I just defended my dissertation at the University of Mannheim, where I worked as a researcher and assistant lecturer during my PhD studies. 
+I just defended my dissertation on the gendered nature of intergroup relations at the University of Mannheim, where I worked as a researcher and assistant lecturer during my PhD studies. You can have a look at the dissertation [here](https://madoc.bib.uni-mannheim.de/66316/1/kretschmer.pdf) if you're interested.
 
 My research interests are in the fields of intergroup relations, immigrant social and cultural integration, social network analysis, and quantitative methods more generally. On this webpage, you find an overview of my [publications](https://davidkretschmer.github.io/publications/) and my [CV](https://davidkretschmer.github.io/assets/vita.pdf).
 

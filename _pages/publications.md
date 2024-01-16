@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+David Kretschmer, Kathrin Lämmermann, and Lars Leszczensky (2024): [How Gendered Religious Norms Contribute to the Emerging Gender Gap in Muslim Youths’ Interreligious Friendships](https://www.sciencedirect.com/science/article/pii/S0147176723001670){:target="_blank"} _International Journal of Intercultural Relations_, 98: 101919.
+
 ## 2023
-
-David Kretschmer, Kathrin Lämmermann, and Lars Leszczensky (2023): [How Gendered Religious Norms Contribute to the Emerging Gender Gap in Muslim Youths’ Interreligious Friendships](https://www.sciencedirect.com/science/article/pii/S0147176723001670){:target="_blank"} _International Journal of Intercultural Relations_, Online First.
-
 
 David Kretschmer, Johanna Gereke, Nan Zhang, and Fabian Winter (2023): [No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016](https://www.journals.uchicago.edu/doi/full/10.1086/727823){:target="_blank"} _American Journal of Sociology_, 129(2): 570-585.
 
