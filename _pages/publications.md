@@ -20,3 +20,4 @@ author_profile: true
 3. David Kretschmer (2018): [Explaining Differences in Gender Role Attitudes among Migrant and Native Adolescents in Germany: Intergenerational Transmission, Religiosity, and Integration.](https://www.tandfonline.com/doi/full/10.1080/1369183X.2017.1388159){:target="_blank"} _Journal of Ethnic and Migration Studies_, 44(13): 2197-2218.
 2. David Kretschmer (2018): [Labor Market Underrepresentation Results in Minority Discrimination: A Dynamic Hiring Model with Employer Learning.](https://www.tandfonline.com/doi/full/10.1080/0022250X.2018.1425299){:target="_blank"} _Journal of Mathematical Sociology_, 42(2): 83–112.
 1. David Kretschmer, Lars Leszczensky, and Sebastian Pink (2018): [Selection and Influence Processes in Academic Achievement – More Pronounced for Girls?](https://www.sciencedirect.com/science/article/abs/pii/S0378873316304890){:target="_blank"} _Social Networks_ 52(1): 251–260.
+{: reversed="reversed"}
