@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-14. David Kretschmer (2024): [The gendered influence of cross-gender friends on the development of adolescents’ gender role attitudes](https://link.springer.com/article/10.1007/s11199-024-01505-x){:target="_blank"} _Sex Roles_.
+15. David Kretschmer (2024): [Gender Segregation in the Friendship Networks of Muslim Youth in Germany: The Role of Chastity Norms](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725){:target="_blank"} _Ethnic and Racial Studies_.
+14. David Kretschmer (2024): [The gendered influence of cross-gender friends on the development of adolescents’ gender role attitudes](https://link.springer.com/article/10.1007/s11199-024-01505-x){:target="_blank"} _Sex Roles_, 90: 1218-1233.
 13. David Kretschmer, Kathrin Lämmermann, and Lars Leszczensky (2024): [How Gendered Religious Norms Contribute to the Emerging Gender Gap in Muslim Youths’ Interreligious Friendships](https://www.sciencedirect.com/science/article/pii/S0147176723001670){:target="_blank"} _International Journal of Intercultural Relations_, 98: 101919.
 12. David Kretschmer, Johanna Gereke, Nan Zhang, and Fabian Winter (2023): [No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016](https://www.journals.uchicago.edu/doi/full/10.1086/727823){:target="_blank"} _American Journal of Sociology_, 129(2): 570-585.
 11. David Kretschmer and Lars Leszczensky (2022): [In-Group Bias or Out-Group Reluctance? The Interplay of Gender and Religion in Creating Religious Friendship Segregation among Muslim Youth.](https://academic.oup.com/sf/article/100/3/1307/6225741){:target="_blank"} _Social Forces_, 100(3): 1307-1332.
