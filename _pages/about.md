@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a sociologist and Postdoctoral Prize Research Fellow at Nuffield College, University of Oxford.
 
-My research interests are in the fields of intergroup relations, immigrant social and cultural integration, religion, and gender, stereotyping and discrimination, social network analysis, and quantitative methods more generally. On this webpage, you find an overview of my [publications](https://davidkretschmer.github.io/publications/) and my [CV](https://davidkretschmer.github.io/assets/vita.pdf). I recently received my PhD from the University of Mannheim, with a thesis on the gendered nature of intergroup relations between Muslim and non-Muslim youth.
+My research interests are in the fields of intergroup relations, immigrant social and cultural integration, religion, and gender, stereotyping and discrimination, social network analysis, and quantitative methods more generally. I recently received my PhD from the University of Mannheim, with a thesis on the gendered nature of intergroup relations between Muslim and non-Muslim youth. On this webpage, you find an overview of my [publications](https://davidkretschmer.github.io/publications/) and my [CV](https://davidkretschmer.github.io/assets/vita.pdf).
 
 
 
