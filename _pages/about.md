@@ -17,7 +17,7 @@ My research interests are in the fields of intergroup relations, immigrant socia
 News
 ======
 
-- **December 2024:** New [paper](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae169/7918057) published in _Social Forces_. This paper shows that homophily based on sociodemographic characteristics is stronger in strong ties--across a wide range of sociodemographics and countries.
+- **December 2024:** New [paper](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae169/7918057) published in _Social Forces_. This paper shows that homophily based on sociodemographic characteristics is stronger in strong ties than in weak ties---across a wide range of sociodemographics and countries.
 - **September 2024:** New [paper](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725) published in _Ethnic and Racial Studies_. This paper shows that gender segregation is widespread among adolescents in Germany, but particularly so among Muslim youth. This difference is driven by Muslim youths' stronger chastity norms, which complicate cross-gender friendships.
 - **September 2024:** New [paper](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725) published in _Ethnic and Racial Studies_. This paper shows that gender segregation is widespread among adolescents in Germany, but particularly so among Muslim youth. This difference is driven by Muslim youths' stronger chastity norms, which complicate cross-gender friendships.
 - **August 2024:** New [paper](https://link.springer.com/article/10.1007/s11199-024-01505-x) published in _Sex Roles_ on the influence cross-gender friends have on adolescents' gender role attitudes and how this varies between boys and girls
