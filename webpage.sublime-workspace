@@ -383,7 +383,7 @@
 			"file": "_pages/about.md",
 			"settings":
 			{
-				"buffer_size": 3174,
+				"buffer_size": 2066,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -395,9 +395,106 @@
 					"left_delete",
 					null,
 					"AQAAAGEEAAAAAAAAYQQAAAAAAAB9AQAALSAqKlNlcHRlbWJlciAyMDI0OioqIE5ldyBbcGFwZXJdKGh0dHBzOi8vd3d3LnRhbmRmb25saW5lLmNvbS9kb2kvZnVsbC8xMC4xMDgwLzAxNDE5ODcwLjIwMjQuMjM5OTcyNSkgcHVibGlzaGVkIGluIF9FdGhuaWMgYW5kIFJhY2lhbCBTdHVkaWVzXy4gVGhpcyBwYXBlciBzaG93cyB0aGF0IGdlbmRlciBzZWdyZWdhdGlvbiBpcyB3aWRlc3ByZWFkIGFtb25nIGFkb2xlc2NlbnRzIGluIEdlcm1hbnksIGJ1dCBwYXJ0aWN1bGFybHkgc28gYW1vbmcgTXVzbGltIHlvdXRoLiBUaGlzIGRpZmZlcmVuY2UgaXMgZHJpdmVuIGJ5IE11c2xpbSB5b3V0aHMnIHN0cm9uZ2VyIGNoYXN0aXR5IG5vcm1zLCB3aGljaCBjb21wbGljYXRlIGNyb3NzLWdlbmRlciBmcmllbmRzaGlwcy4K",
-					"AQAAAAAAAAABAAAAYQQAAAAAAADeBQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBAAAAAAAAN4FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsBAAAAAAAAWwEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUCAAAAAAAABQIAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQIAAAAAAAAFAgAAAAAAABRBAAALSAqKkRlY2VtYmVyIDIwMjM6KiogTmV3IFtwYXBlcl0oaHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDE0NzE3NjcyMzAwMTY3MCkgcHVibGlzaGVkIGluIF9JbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgSW50ZXJjdWx0dXJhbCBSZWxhdGlvbnNfLCB0b2dldGhlciB3aXRoIEthdGhyaW4gTMOkbW1lcm1hbm4gYW5kIExhcnMgTGVzemN6ZW5za3kuIEluIHRoZSBwYXBlciwgd2Ugc2hvdyB0aGF0IE11c2xpbSBnaXJscycgbGVzc2VyIGludm9sdmVtZW50IGluIGludGVycmVsaWdpb3VzIGZyaWVuZHNoaXBzIChjb21wYXJlZCB0byBib3lzKSBjYW4gcGFydGlhbGx5IGJlIGV4cGxhaW5lZCBieSBmYWN0b3JzIHJlbGF0ZWQgdG8gZ2VuZGVyZWQgcmVsaWdpb3VzIG5vcm1zIC0tIGV4YWN0bHkgdGhvc2UgZmFjdG9ycyB0aGF0IGFyZSBhbHNvIHJlc3BvbnNpYmxlIGZvciBNdXNsaW0gZ2lybHMnIGxvd2VyIGxldmVscyBvZiBpbnRlcmdyb3VwIGRhdGluZy4KLSAqKk5vdmVtYmVyIDIwMjM6KiogTmV3IFtjb21tZW50XShodHRwczovL3d3dy5qb3VybmFscy51Y2hpY2Fnby5lZHUvZG9pL2Z1bGwvMTAuMTA4Ni83Mjc4MjMpIHB1Ymxpc2hlZCBpbiBfQW1lcmljYW4gSm91cm5hbCBvZiBTb2Npb2xvZ3lfLiBUaGUgY29tbWVudCBpcyBhIG1ldGhvZG9sb2dpY2FsIGNyaXRpcXVlIG9mIFNtaXRoIGV0IGFsLidzIDIwMTYgcGFwZXIgb24gW0V0aG5pYyBDb21wb3NpdGlvbiBhbmQgRnJpZW5kc2hpcCBTZWdyZWdhdGlvbjogRGlmZmVyZW50aWFsIEVmZmVjdHMgZm9yIEFkb2xlc2NlbnQgTmF0aXZlcyBhbmQgSW1taWdyYW50c10oaHR0cHM6Ly93d3cuam91cm5hbHMudWNoaWNhZ28uZWR1L2RvaS9mdWxsLzEwLjEwODYvNjg0MDMyKS4gQWxzbyB0YWtlIGEgbG9vayBhdCBTbWl0aCBldCBhbC4ncyBbcmVwbHldKGh0dHBzOi8vd3d3LmpvdXJuYWxzLnVjaGljYWdvLmVkdS9kb2kvMTAuMTA4Ni83Mjc4NTgpCi0gKipOb3ZlbWJlciAyMDIzOioqIEkgaGF2ZSBqb2luZWQgTnVmZmllbGQgQ29sbGVnZSwgVW5pdmVyc2l0eSBvZiBPeGZvcmQsIGFzIGEgUG9zdGRvY3RvcmFsIFByaXplIFJlc2VhcmNoIEZlbGxvdwoKCg",
+					"AQAAAAAAAAABAAAAFAgAAAAAAABkDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAABMIAAAAAAAAEwgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAFAgAAAAAAAAUCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					2,
+					"left_delete",
+					null,
+					"AgAAAM0BAAAAAAAAzQEAAAAAAAAIAAAAcmVjZW50bHnMAQAAAAAAAMwBAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " i"
+					},
+					"AgAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA/QEAAAAAAAD+AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": " n202"
+					},
+					"BQAAAP4BAAAAAAAA/wEAAAAAAAAAAAAA/wEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAECAAAAAAAAAAAAAAECAAAAAAAAAgIAAAAAAAAAAAAAAgIAAAAAAAADAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAICAAAAAAAAAgIAAAAAAAABAAAAMgECAAAAAAAAAQIAAAAAAAABAAAAMAACAAAAAAAAAAIAAAAAAAABAAAAMv8BAAAAAAAA/wEAAAAAAAABAAAAbv4BAAAAAAAA/gEAAAAAAAABAAAAIP0BAAAAAAAA/QEAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "in"
+					},
+					"AgAAAP0BAAAAAAAA/gEAAAAAAAAAAAAA/gEAAAAAAAD/AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QEAAAAAAAD9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " 2023"
+					},
+					"BQAAAP8BAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAICAAAAAAAAAAAAAAICAAAAAAAAAwIAAAAAAAAAAAAAAwIAAAAAAAAEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wEAAAAAAAD/AQAAAAAAAAAAAAAAAPC/"
 				]
 			]
+		},
+		{
+			"file": "_pages/publications.md",
+			"settings":
+			{
+				"buffer_size": 4866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -947,7 +1044,8 @@
 	[
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io",
 		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_pages",
-		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_sass"
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/_sass",
+		"/Users/davidkretschmer/Projects/Webpage/davidkretschmer.github.io/assets"
 	],
 	"file_history":
 	[
@@ -1144,15 +1242,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3174,
+						"buffer_size": 2066,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1121,
-								1121
+								516,
+								516
 							]
 						],
 						"settings":
@@ -1169,6 +1267,38 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/publications.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
