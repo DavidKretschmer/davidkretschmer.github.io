@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+18. David Kretschmer and Lars Leszczensky (2025): [Stable or Dynamic? Explaining the Development of Muslim and Non-Muslim Boys’ and Girls’ Friendship-Making Across Adolescence](https://www.sciencedirect.com/science/article/pii/S0378873325000620){:target="_blank"} _Social Networks_.
 17. David Kretschmer and Lars Leszczensky (2025): [Religion, Gender, and the Development of Leisure Time Activities from Adolescence to Young Adulthood: The Case of Muslim Girls in Germany](https://journals.sagepub.com/doi/10.1177/23780231251349634){:target="_blank"} _Socius_.
 16. David Kretschmer, Lars Leszczensky, and Cassie McMillan (2024): [Strong ties, strong homophily? Variation in homophily on sociodemographic characteristics by relationship strength](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae169/7918057){:target="_blank"} _Social Forces_.
 15. David Kretschmer (2024): [Gender Segregation in the Friendship Networks of Muslim Youth in Germany: The Role of Chastity Norms](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725){:target="_blank"} _Ethnic and Racial Studies_.
