@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-18. David Kretschmer and Lars Leszczensky (2025): [Stable or Dynamic? Explaining the Development of Muslim and Non-Muslim Boys’ and Girls’ Friendship-Making Across Adolescence](https://www.sciencedirect.com/science/article/pii/S0378873325000620){:target="_blank"} _Social Networks_.
+# Peer-Reviewed Journal Articles
+
+19. David Kretschmer and Lars Leszczensky (2026): [Endogamy norms and the gendered friendship-making of Muslim youth](https://www.sciencedirect.com/science/article/pii/S0049089X26000189){:target="_blank"} _Social Science Research.
+15. David Kretschmer (2026): [Gender Segregation in the Friendship Networks of Muslim Youth in Germany: The Role of Chastity Norms](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725){:target="_blank"} _Ethnic and Racial Studies_ 49(1): 123-149.
+18. David Kretschmer and Lars Leszczensky (2026): [Stable or Dynamic? Explaining the Development of Muslim and Non-Muslim Boys’ and Girls’ Friendship-Making Across Adolescence](https://www.sciencedirect.com/science/article/pii/S0378873325000620){:target="_blank"} _Social Networks_ 84: 110-122.
 17. David Kretschmer and Lars Leszczensky (2025): [Religion, Gender, and the Development of Leisure Time Activities from Adolescence to Young Adulthood: The Case of Muslim Girls in Germany](https://journals.sagepub.com/doi/10.1177/23780231251349634){:target="_blank"} _Socius_.
-16. David Kretschmer, Lars Leszczensky, and Cassie McMillan (2024): [Strong ties, strong homophily? Variation in homophily on sociodemographic characteristics by relationship strength](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae169/7918057){:target="_blank"} _Social Forces_.
-15. David Kretschmer (2024): [Gender Segregation in the Friendship Networks of Muslim Youth in Germany: The Role of Chastity Norms](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725){:target="_blank"} _Ethnic and Racial Studies_.
+16. David Kretschmer, Lars Leszczensky, and Cassie McMillan (2025): [Strong ties, strong homophily? Variation in homophily on sociodemographic characteristics by relationship strength](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae169/7918057){:target="_blank"} _Social Forces_ 104:250-269.
 14. David Kretschmer (2024): [The gendered influence of cross-gender friends on the development of adolescents’ gender role attitudes](https://link.springer.com/article/10.1007/s11199-024-01505-x){:target="_blank"} _Sex Roles_, 90: 1218-1233.
 13. David Kretschmer, Kathrin Lämmermann, and Lars Leszczensky (2024): [How Gendered Religious Norms Contribute to the Emerging Gender Gap in Muslim Youths’ Interreligious Friendships](https://www.sciencedirect.com/science/article/pii/S0147176723001670){:target="_blank"} _International Journal of Intercultural Relations_, 98: 101919.
 12. David Kretschmer, Johanna Gereke, Nan Zhang, and Fabian Winter (2023): [No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016](https://www.journals.uchicago.edu/doi/full/10.1086/727823){:target="_blank"} _American Journal of Sociology_, 129(2): 570-585.
@@ -24,3 +27,9 @@ author_profile: true
 2. David Kretschmer (2018): [Labor Market Underrepresentation Results in Minority Discrimination: A Dynamic Hiring Model with Employer Learning.](https://www.tandfonline.com/doi/full/10.1080/0022250X.2018.1425299){:target="_blank"} _Journal of Mathematical Sociology_, 42(2): 83–112.
 1. David Kretschmer, Lars Leszczensky, and Sebastian Pink (2018): [Selection and Influence Processes in Academic Achievement – More Pronounced for Girls?](https://www.sciencedirect.com/science/article/abs/pii/S0378873316304890){:target="_blank"} _Social Networks_ 52(1): 251–260.
 {: reversed="reversed"}
+
+
+# Mass Collaborations
+
+1. Olivia Miske and 127 co-authors, including David Kretschmer (2026): [](https://www.nature.com/articles/s41586-026-10203-5) _Nature_ 652(8108): 126-134.
+
