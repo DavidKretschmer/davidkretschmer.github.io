@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer-Reviewed Journal Articles
+## Peer-Reviewed Journal Articles
 
-19. David Kretschmer and Lars Leszczensky (2026): [Endogamy norms and the gendered friendship-making of Muslim youth](https://www.sciencedirect.com/science/article/pii/S0049089X26000189){:target="_blank"} _Social Science Research.
+19. David Kretschmer and Lars Leszczensky (2026): [Endogamy norms and the gendered friendship-making of Muslim youth](https://www.sciencedirect.com/science/article/pii/S0049089X26000189){:target="_blank"} _Social Science Research_.
 15. David Kretschmer (2026): [Gender Segregation in the Friendship Networks of Muslim Youth in Germany: The Role of Chastity Norms](https://www.tandfonline.com/doi/full/10.1080/01419870.2024.2399725){:target="_blank"} _Ethnic and Racial Studies_ 49(1): 123-149.
 18. David Kretschmer and Lars Leszczensky (2026): [Stable or Dynamic? Explaining the Development of Muslim and Non-Muslim Boys’ and Girls’ Friendship-Making Across Adolescence](https://www.sciencedirect.com/science/article/pii/S0378873325000620){:target="_blank"} _Social Networks_ 84: 110-122.
 17. David Kretschmer and Lars Leszczensky (2025): [Religion, Gender, and the Development of Leisure Time Activities from Adolescence to Young Adulthood: The Case of Muslim Girls in Germany](https://journals.sagepub.com/doi/10.1177/23780231251349634){:target="_blank"} _Socius_.
@@ -29,7 +29,7 @@ author_profile: true
 {: reversed="reversed"}
 
 
-# Mass Collaborations
+## Mass Collaborations
 
-1. Olivia Miske and 127 co-authors, including David Kretschmer (2026): [](https://www.nature.com/articles/s41586-026-10203-5) _Nature_ 652(8108): 126-134.
+1. Olivia Miske and 127 co-authors, including David Kretschmer (2026): [Investigating the reproducibility of the social and behavioural sciences](https://www.nature.com/articles/s41586-026-10203-5) _Nature_ 652(8108): 126-134.
 
