@@ -379,6 +379,26 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 2221,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAADUCAAAAAAAANQIAAAAAAABwAAAALSAqKkF1Z3VzdCAyMDI2OioqIE5ldyBwb3NpdGlvbjogQXMgb2YgQXVndXN0LCBJIGFtIEFzc2lzdGFudCBQcm9mZXNzb3IgaW4gU29jaW9sb2d5IGF0IFRyaW5pdHkgQ29sbGVnZSBEdWJsaW4uCg",
+					"AQAAAAAAAAABAAAANQIAAAAAAAClAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -1120,12 +1140,47 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_pages/about.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 22.0
 	},
 	"input":
 	{
